@@ -4,4 +4,6 @@ Flask-Mail==0.10.0
 cs50==9.4.0
 Werkzeug==3.0.4
 APScheduler==3.10.4
-gunicorn
+requests==2.32.3
+urllib3==2.2.3
+gunicorn==23.0.0
